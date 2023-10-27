@@ -12,3 +12,7 @@ Os adjunto la demo para que veaís fácilmente como funciona la app. No inspecci
 5. Bonus! Puedes hacer que al seleccionar un valor, se quede marcado en naranja.
 
 ## Pregunta 1: Describe con lenguaje natural que tiene que hacer la app.
+
+1. Nos dan una encuesta de satisfacción, en la qual te permite puntuar del 1 al 5
+2. Eligir la puntuación deseada y recoger ese dato con el botón de "Submit"
+3. Se mostrarà por pantalla otra página con la puntuación elegida
